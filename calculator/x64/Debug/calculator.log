@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+E:\prog\Git\calculator_ordinary_WinForms\calculator\MyForm.h(598,56): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\prog\Git\calculator_ordinary_WinForms\calculator\MyForm.h(606,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\prog\Git\calculator_ordinary_WinForms\calculator\MyForm.h(644,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  calculator.vcxproj -> E:\prog\Git\calculator_ordinary_WinForms\x64\Debug\calculator.exe

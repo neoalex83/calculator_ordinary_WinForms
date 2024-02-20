@@ -1,0 +1,12 @@
+E:\prog\WinForms\calculator\calculator\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+E:\prog\WinForms\calculator\calculator\x64\Debug\calculator.vcxproj.SuggestedBindingRedirects.cache
+E:\prog\WinForms\calculator\calculator\x64\Debug\calculator.MyForm.resources
+E:\prog\WinForms\calculator\calculator\x64\Debug\calculator.vcxproj.GenerateResource.cache
+E:\prog\Код\WinForms\calculator\calculator\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+E:\prog\Код\WinForms\calculator\calculator\x64\Debug\calculator.vcxproj.SuggestedBindingRedirects.cache
+E:\prog\Код\WinForms\calculator\calculator\x64\Debug\calculator.MyForm.resources
+E:\prog\Код\WinForms\calculator\calculator\x64\Debug\calculator.vcxproj.GenerateResource.cache
+E:\prog\Git\calculator_ordinary_WinForms\calculator\x64\Debug\calculator.vcxproj.AssemblyReference.cache
+E:\prog\Git\calculator_ordinary_WinForms\calculator\x64\Debug\calculator.vcxproj.SuggestedBindingRedirects.cache
+E:\prog\Git\calculator_ordinary_WinForms\calculator\x64\Debug\calculator.MyForm.resources
+E:\prog\Git\calculator_ordinary_WinForms\calculator\x64\Debug\calculator.vcxproj.GenerateResource.cache
